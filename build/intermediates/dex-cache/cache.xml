@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_3c1a62b7d9b39b8f3dcd1f8819a037416f5e9146.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\build\intermediates\exploded-aar\com.github.barteksc\pdfium-android\1.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c17272eb894dcb4217871365757ba21f605d35e8">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\build\intermediates\pre-dexed\debug\com.github.barteksc-pdfium-android-1.4.0_bbb912f2b3fa7f8dbbcf5b784b73c26c8cafcf76.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\libs\libStreamSDK_v1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="033b7351fc2173a9ac8e82a355c877495759eb67">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\build\intermediates\pre-dexed\debug\libStreamSDK_v1.2.0_5187e44dfeda7e95841c7ff7644e1305681adcf2.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_6df4b4e0aad84a11daa4ea7629a7b57d020ab983.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\build\intermediates\exploded-aar\com.github.barteksc\android-pdf-viewer\2.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="930d951d620e33cc761148fc880459eec564a3b5">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\build\intermediates\pre-dexed\debug\com.github.barteksc-android-pdf-viewer-2.0.3_211e127ca0348a4a1af89ffded8ee51806e3b34f.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\build\intermediates\pre-dexed\debug\com.jjoe64-graphview-4.2.1_13523ca7ff8b0e9d90fbf87afea197912141c4f2.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\newmwm\MindWaveMobile-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_84000d380cc4aa624000f5de1a701a95fc009a04.jar" />
+    </item>
+
+</items>

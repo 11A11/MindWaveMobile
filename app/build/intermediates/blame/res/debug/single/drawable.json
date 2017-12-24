@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\newmwm\\MindWaveMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_left.xml",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\newmwm\\MindWaveMobile-master\\app\\build\\intermediates\\exploded-aar\\com.github.barteksc\\android-pdf-viewer\\2.0.3\\res\\drawable\\default_scroll_handle_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\newmwm\\MindWaveMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_bottom.xml",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\newmwm\\MindWaveMobile-master\\app\\build\\intermediates\\exploded-aar\\com.github.barteksc\\android-pdf-viewer\\2.0.3\\res\\drawable\\default_scroll_handle_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\newmwm\\MindWaveMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_right.xml",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\newmwm\\MindWaveMobile-master\\app\\build\\intermediates\\exploded-aar\\com.github.barteksc\\android-pdf-viewer\\2.0.3\\res\\drawable\\default_scroll_handle_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\newmwm\\MindWaveMobile-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_top.xml",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\newmwm\\MindWaveMobile-master\\app\\build\\intermediates\\exploded-aar\\com.github.barteksc\\android-pdf-viewer\\2.0.3\\res\\drawable\\default_scroll_handle_top.xml"
+    }
+]

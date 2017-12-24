@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TableLayout
+        android:id="@+id/tableLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="17dp"
+        android:stretchColumns="*" >
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/btn_fil1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select File 1"
+            android:textColor="#ff000000"
+            android:textSize="16dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvFil1"
+            android:layout_column="0" />
+
+    </TableRow>
+
+        <TableRow>
+
+            <Button
+            android:id="@+id/btn_fil2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select File 2"
+            android:textColor="#ff000000"
+            android:textSize="16dp" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvFil2"
+                android:layout_column="0" />
+
+
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:id="@+id/btn_cmp"
+                android:text="Compare"
+                android:textColor="#ff000000"
+                android:textSize="16dp"
+                android:layout_span="2" />
+
+
+        </TableRow>
+
+    </TableLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.jjoe64.graphview.GraphView
+            android:layout_width="match_parent"
+            android:layout_height="300dip"
+            android:id="@+id/graph"
+            android:layout_marginTop="40dip" />
+    </LinearLayout>
+</LinearLayout>

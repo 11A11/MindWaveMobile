@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+<TableRow android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:textSize="22dip"
+            android:id="@+id/meanAtt"
+            android:text="Mean Attention is : "
+            android:layout_below="@+id/meanAtt2"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="97dp"
+            android:layout_height="wrap_content"
+            android:textSize="22dip"
+            android:id="@+id/meanAtt2"
+            android:text="0.0"
+            android:layout_gravity="right" />
+
+</TableRow>
+
+    <TableRow android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:textSize="22dip"
+            android:id="@+id/clktxt"
+            android:text="Time taken is : "
+            android:layout_below="@+id/clkcnt"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="97dp"
+            android:layout_height="wrap_content"
+            android:textSize="22dip"
+            android:id="@+id/clkcnt"
+            android:text="0.0"
+            android:layout_gravity="right" />
+
+    </TableRow>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.jjoe64.graphview.GraphView
+            android:layout_width="match_parent"
+            android:layout_height="300dip"
+            android:id="@+id/graph"
+            android:layout_marginTop="40dip" />
+    </LinearLayout>
+
+</LinearLayout>
